@@ -1,0 +1,2 @@
+# sums
+repozytorium na Samsung

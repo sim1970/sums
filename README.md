@@ -1,2 +1,2 @@
 # sums
-repozytorium na Samsung
+repozytorium na Samsung Bordowy
